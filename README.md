@@ -1,5 +1,7 @@
 # Nash Stablecoin
 
+This is a PoC algorithmic stablecoin created using `Version 5` of `lisk-sdk`.
+
 ## Description
 
 - The blockchain app contains three kinds of tokens: Nash, Bond, Share.
@@ -40,3 +42,7 @@ cd frontend_app; npm start
 4. A block can't contain multiple transactions from the same sender. Make sure your transactions from a single sender are not in the same block.
 5. There is a 10s delay between transactions in the pricing process, and it will cause the process to be a little slow.
 
+## Resources
+* Project introduction: https://lisk.io/blog/apps/building-nash-stablecoin-project 
+* Previous version source code that is compatiable with `Version 3` of `lisk-sdk`: https://github.com/rastakms/nash-stablecoin.
+* Runnig Demo: http://168.119.130.209:3000/
