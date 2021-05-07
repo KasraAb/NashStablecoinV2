@@ -44,5 +44,5 @@ cd frontend_app; npm start
 
 ## Resources
 * Project introduction: https://lisk.io/blog/apps/building-nash-stablecoin-project 
-* Previous version source code that is compatible with `Version 3` of `lisk-sdk`: https://github.com/rastakms/nash-stablecoin.
+* Source code of the version that is compatible with `Version 3` of `lisk-sdk`: https://github.com/rastakms/nash-stablecoin.
 * Runnig Demo: http://168.119.130.209:3000/
