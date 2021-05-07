@@ -1,0 +1,19 @@
+{
+    "genesis": {
+      "address":"lskdxc4ta5j43jp9ro3f8zqbxta9fn6jwzjucw7yt",
+      "passphrase": "peanut hundred pen hawk invite exclude brain chunk gadget wait wrong ready"
+	},
+		
+	"account1": {
+		"address":"lsk32gnhxjs887bqmgoz6y6ozh6c4c6ztpz7wjfa9",
+		"passphrase": "mushroom edit regular pencil ten casino wine north vague bachelor swim piece"
+		},
+	"account2": {
+	"address":"lskb6bufqcbrwvgkzuu5wqu6wnruz7awvhxwfkonb",
+	"passphrase": "thought talk cherry write armed valve salute fabric auction maid join rebuild"
+	},
+	"account3": {
+	"address":"lskomdmvwhb9r3sgj3ryp4fsqnzfn8c8twzkecugt",
+	"passphrase": "exist night more net diesel exact will purse orbit vacuum birth wide"
+	}
+}
