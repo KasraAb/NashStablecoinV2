@@ -141,7 +141,7 @@ const handleClose = (event, reason) => {
                 fullWidth
                 name="passphrase"
                 label="passphrase"
-                id="amount"
+                id="passphrase"
                 onChange={handleChange}
               />
              </Grid>
