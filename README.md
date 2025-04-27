@@ -1,6 +1,6 @@
 # Nash Stablecoin
 
-This is a PoC algorithmic stablecoin created using `Version 5` of `lisk-sdk`.
+A PoC algorithmic stablecoin created using `lisk-sdk, Version 5`.
 
 ## Description
 
@@ -36,8 +36,8 @@ cd frontend_app; npm start
 
 ### Test transactions
 
-1. First step is initializing the app using genesis passphrase.
-1. You can use default accounts to testing the transactions.
+1. The first step is initializing the app using genesis passphrase.
+2. You can use default accounts for testing the transactions.
 3. Note the frontend app is not auto-refreshed. Once you submit a request, you have to refresh it manually.
 4. A block can't contain multiple transactions from the same sender. Make sure your transactions from a single sender are not in the same block.
 5. There is a 10s delay between transactions in the pricing process, and it will cause the process to be a little slow.
