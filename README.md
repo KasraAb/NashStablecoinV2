@@ -41,6 +41,3 @@ cd frontend_app; npm start
 3. Note the frontend app is not auto-refreshed. Once you submit a request, you have to refresh it manually.
 4. A block can't contain multiple transactions from the same sender. Make sure your transactions from a single sender are not in the same block.
 5. There is a 10s delay between transactions in the pricing process, and it will cause the process to be a little slow.
-
-## Resources
-* Project introduction: https://lisk.io/blog/apps/building-nash-stablecoin-project
