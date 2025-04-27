@@ -40,4 +40,4 @@ cd frontend_app; npm start
 2. There are several default accounts that can be used for testing transactions.
 3. The frontend app is not auto-refreshing. Once a request is submitted, it should be refreshed manually.
 4. A block cannot contain multiple transactions from the same sender. Make sure your transactions from a different senders.
-5. There is a 10s latency between transactions in the pricing process, and it might cause the process to be a slower than expectation.
+5. There is a 10s latency between transactions in the pricing process, and it might cause the process to be a slower than your expectation.
