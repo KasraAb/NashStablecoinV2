@@ -7,7 +7,7 @@ A PoC algorithmic stablecoin created using `lisk-sdk`.
 - The blockchain app contains three types of tokens: Nash, Bond, and Share.
   - Nash: This is the core token of the system, which is expected to be pegged to one US Dollar.
   - Bond: Non-fungible tokens which are resealed when the price is under the pegg to contract the Nash supply. These are only purchasable by Nash tokens, and when the price goes     - upper than the Pegg, these tokens will be changed to Nash automatically. 
-  - Share: There is a reserve of ‘LSK’ coins to make the system more sustainable under complex conditions. Any user can invest in the reserve in exchange for Share tokens. A portion of generated Nash tokens in high prices will be distributed among the shareholders.
+  - Share: There is a reserve of ‘LSK’ coins to make the system more sustainable. Any user can invest in the reserve in exchange for Share tokens. A portion of generated Nash tokens in high prices will be distributed among the shareholders of the reserve.
 
 - Current PoC version supports for:
   - Transfer LSK or Nash tokens
