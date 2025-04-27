@@ -10,9 +10,9 @@ A PoC algorithmic stablecoin created using `lisk-sdk`.
   - Share: There is a reserve of ‘LSK’ coins to make the system more sustainable. Any user can invest in the reserve in exchange for Share tokens. A portion of generated Nash tokens in high prices will be distributed among the shareholders of the reserve.
 
 - The current PoC implementation supports:
-  - Transfer LSK or Nash tokens
-  - Trading Share tokens
   - Purchase unsold Bonds
+  - Transfer LSK or Nash tokens
+  - Trading Share tokens in exchange for Nash tokens
   - Pricing the Nash and test the reaction of the system to price changes
 
 ## Install dependencies
