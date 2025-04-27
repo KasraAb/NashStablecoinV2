@@ -43,6 +43,4 @@ cd frontend_app; npm start
 5. There is a 10s delay between transactions in the pricing process, and it will cause the process to be a little slow.
 
 ## Resources
-* Project introduction: https://lisk.io/blog/apps/building-nash-stablecoin-project 
-* Source code of the version that is compatible with `Version 3` of `lisk-sdk`: https://github.com/rastakms/nash-stablecoin.
-* Runnig Demo: http://168.119.130.209:3000/
+* Project introduction: https://lisk.io/blog/apps/building-nash-stablecoin-project
