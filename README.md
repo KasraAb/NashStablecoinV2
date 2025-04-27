@@ -34,7 +34,7 @@ cd blockchain_app; node index.js
 cd frontend_app; npm start
 ```
 
-### Test Transactions
+### Test The Transactions
 
 1. The first step is initializing the app using genesis passphrase.
 2. You can use default accounts for testing the transactions.
