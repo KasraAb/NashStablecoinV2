@@ -15,26 +15,26 @@ A PoC algorithmic stablecoin created using `lisk-sdk`.
   - Trading Share tokens in exchange for Nash tokens
   - Pricing the Nash and test the reaction of the system to price changes
 
-## Install dependencies
+## Install Dependencies
 
 ```bash
 cd blockchain_app && npm i
 cd frontend_app && npm i
 ```
 
-## Start node
+## Start A Node
 
 ```bash
 cd blockchain_app; node index.js
 ```
 
-## Start frontend
+## Start The Frontend
 
 ```bash
 cd frontend_app; npm start
 ```
 
-### Test transactions
+### Test Transactions
 
 1. The first step is initializing the app using genesis passphrase.
 2. You can use default accounts for testing the transactions.
