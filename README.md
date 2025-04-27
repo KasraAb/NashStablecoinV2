@@ -36,8 +36,8 @@ cd frontend_app; npm start
 
 ### Testing Transactions
 
-1. The first step is initializing the app using genesis passphrase.
-2. You can use default accounts for testing the transactions.
-3. Note the frontend app is not auto-refreshed. Once you submit a request, you have to refresh it manually.
+1. First, initialize the app using genesis passphrase.
+2. There are default accounts to use for testing the transactions.
+3. Note the frontend app is not auto-refreshing. Once a request is submitted, it must be refreshed manually.
 4. A block can't contain multiple transactions from the same sender. Make sure your transactions from a single sender are not in the same block.
-5. There is a 10s delay between transactions in the pricing process, and it will cause the process to be a little slow.
+5. There is a 10s latency between transactions in the pricing process, and it might cause the process to be a slower than expectation.
